@@ -1,7 +1,7 @@
-# Movie Recommendation System
+# 🎬 Movie Recommendation System
 ## Overview
 This project is a Movie Recommendation System built using Machine Learning and Python. It aims to suggest movies to users based on their preferences and viewing history. The recommendation system employs techniques like content-based filtering and collaborative filtering to provide personalized movie recommendations.
-##  Features
+## 🚀 Features
 - Personalized Movie Recommendations: Suggests movies based on user preferences and history.
 - Content-Based Filtering: Recommends movies similar to those the user has already watched.
 - Collaborative Filtering: Suggests movies based on what similar users have watched and liked.
